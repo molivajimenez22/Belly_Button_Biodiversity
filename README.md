@@ -1,6 +1,6 @@
 # Belly_Button_Biodiversity
 
-For this assignment, I built an interactive dashboard. The dashboard catalogs the microbes that colonize human navels to see which is closes to beef.
+For this assignment, I built an interactive dashboard. The dashboard catalogs the microbes that colonize human navels to see which is closest to the values of beef.
 
 ### **Welcome to the Belly Button Biodiversity Dashboard**
 
